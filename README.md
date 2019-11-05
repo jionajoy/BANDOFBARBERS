@@ -1,2 +1,1 @@
-# BANDOFBARBERS
-ICT Project
+# ICT2

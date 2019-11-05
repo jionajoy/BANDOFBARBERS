@@ -1,0 +1,138 @@
+[28-Apr-2019 04:29:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 04:29:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 04:29:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 04:29:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 04:30:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 08:25:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURTIME() in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php on line 13
+[28-Apr-2019 08:27:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURTIME() in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php on line 13
+[28-Apr-2019 09:56:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 09:57:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 09:58:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 10:02:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/viewslots.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/viewslots.php on line 25
+[28-Apr-2019 10:05:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/viewslots.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/viewslots.php on line 25
+[28-Apr-2019 10:16:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/viewslots.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/viewslots.php on line 25
+[28-Apr-2019 10:16:36 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php on line 12
+[28-Apr-2019 10:18:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php on line 13
+[28-Apr-2019 10:20:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/aj.php on line 13
+[28-Apr-2019 11:36:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 11:37:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/salonDesc.php on line 23
+[28-Apr-2019 11:55:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURDATE() in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php on line 83
+[28-Apr-2019 11:57:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURDATE() in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php on line 83
+[28-Apr-2019 11:57:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURDATE() in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php on line 83
+[28-Apr-2019 11:57:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURDATE() in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php on line 83
+[28-Apr-2019 11:57:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function CURDATE() in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/bookslot_action.php on line 83
+[29-Apr-2019 03:43:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:51:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:54:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:55:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:56:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:56:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:56:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:56:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:57:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:57:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:59:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 10:59:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 26
+[29-Apr-2019 11:12:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/ictatjcu/public_html/bandofbarbers/ICT2/user_update.php on line 66
